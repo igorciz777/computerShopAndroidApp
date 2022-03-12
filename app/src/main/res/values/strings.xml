@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sklep komputerowy</string>
+    <string name="choose">Wybierz zestaw</string>
+    <string name="order">Zamówienie</string>
+    <string name="add" translatable="false">+</string>
+    <string name="pcDefault" translatable="false">1</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="addons">Dodatki</string>
+    <string name="keyboard">Klawiatura</string>
+    <string name="mouse">Myszka</string>
+    <string name="monitor">Monitor</string>
+    <string name="price">Cena:</string>
+    <string name="pricePlaceholder" translatable="false">00000</string>
+    <string name="orderbttn">ZAMÓW</string>
+    <string name="nameHint">Imię nazwisko lub nazwa firmy</string>
+    <string name="confirm_order">Potwierdź zamówienie</string>
+    <string name="pcamount">Ilość zestawów:</string>
+    <string name="order_list">Lista zamówień</string>
+    <string name="share">Udostępnij</string>
+    <string name="about_app">O programie</string>
+    <string name="order_sent">Wysłano zamówienie!</string>
+    <string name="send_email">Wyślij E-Mail</string>
+    <string name="send_sms">Wyślij SMS</string>
+    <string name="returntomenu">Powrót</string>
+    <string name="ordered">Zamówiono</string>
+    <string name="at">O</string>
+    <string name="orderedfor">Dla</string>
+    <string name="edittexterror">Podaj imię lub nazwe firmy</string>
+    <string name="pcamounterror">Niepoprawna liczba zestawów</string>
+    <string name="about">Aplikacja sklep komputerowy, Igor Ciżewski 4P</string>
+    <string name="ok">OK</string>
+    <string name="save_order">Zapisz zamówienie</string>
+    <string name="load_order">Wczytaj zamówienie</string>
+    <string name="save_login">Zapisz dane logowania</string>
+    <string name="login">Login</string>
+    <string name="log_in">Zaloguj się</string>
+    <string name="password">Hasło</string>
+    <string name="no_account">Nie posiadasz konta?</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="has_account">Masz już konto?</string>
+    <string name="confirm_password">Potwierdź hasło</string>
+    <string name="login_empty">Login nie może być pusty!</string>
+    <string name="password_empty">Hasło nie może być puste!</string>
+    <string name="confirm_empty">Potwierdź hasło!</string>
+    <string name="confirm_fail">Potwierdzenie hasła róźni się!</string>
+    <string name="login_fail">Niepoprawny login lub hasło!</string>
+    <string name="register_fail">Ten login już istnieje!</string>
+    <string name="saved_login">Zapisano dane logowania!</string>
+    <string name="log_out">Wyloguj się</string>
+    <string name="amount">Ilość:</string>
+</resources>
